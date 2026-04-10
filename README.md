@@ -28,7 +28,7 @@
 
 <div id="sobre" align="center">
 
-##  Sobre mim
+## 🧠 Sobre mim
 
 <p style="max-width: 700px">
 Sou o Luiz, desenvolvedor focado em construir projetos sólidos e bem estruturados.  
@@ -50,7 +50,7 @@ Atualmente trabalhando na criação da bot de Discord chamada Yumi! Sempre busca
 
 <div id="projetos">
 
-##  Projetos 
+## 🚀 Projetos 
 
 <div align="center">
 
@@ -70,7 +70,7 @@ Atualmente trabalhando na criação da bot de Discord chamada Yumi! Sempre busca
 
 <div id="skills">
 
-## ️ Tecnologias Que Uso
+## 🛠️ Tecnologias Que Uso
 
 <div align="center">
 
@@ -95,6 +95,20 @@ Atualmente trabalhando na criação da bot de Discord chamada Yumi! Sempre busca
 <a href="https://discord.com/users/1357179231108464772">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
+
+</div>
+
+</div>
+
+---
+
+<div id="apps">
+
+## 💻 Aplicativos Que Uso
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=acode,termux,vscode" />
 
 </div>
 
