@@ -2,7 +2,7 @@
 
   <h1>Luiz Alves</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full-Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=5865F2&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full-Stack" />
 
 <br><br>
 
