@@ -74,7 +74,7 @@ Atualmente trabalhando na criação da bot de Discord chamada Yumi! Sempre busca
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,rust,c++,github,html,css,php,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,rust,c,github,html,css,php,react,nextjs" />
 
 </div>
 
@@ -103,5 +103,5 @@ Atualmente trabalhando na criação da bot de Discord chamada Yumi! Sempre busca
 ---
 
 <div align="center">
-  <sub>Feito Com Muito Amor e Carinho Por Luiz Alves.</sub>
+  <sub>Feito Com Muito Amor e ☕ Por Luiz Alves.</sub>
 </div>
