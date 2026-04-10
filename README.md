@@ -88,12 +88,12 @@ Atualmente trabalhando na criação da bot de Discord chamada Yumi! Sempre busca
 
 <div align="center">
 
-<a href="mailto:contatosoninhodev@gmail.com">
+<a href="mailto:contatosoninhodev@gmail.com?subject=Github&body=Salve%20xyz!,%20vi%20seu%20README.md%20do%20Github,%20Ficou%20Muito%20Top!%0A%0A***Essa%20Mensagem%20Foi%20Gerada%20Automaticamente,%20se%20quiser,%20pode%20apagar%20a%20mensagem%20e%20escrever%20a%20sua!%0A~xyz***">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://discord.com/users/1357179231108464772">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
