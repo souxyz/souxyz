@@ -106,11 +106,7 @@ Atualmente trabalhando na criação da bot de Discord chamada Yumi! Sempre busca
 
 ## 💻 Aplicativos Que Uso
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=acode,termux,vscode" />
-
-</div>
+VSCode, Termux, Acode
 
 </div>
 
@@ -118,4 +114,6 @@ Atualmente trabalhando na criação da bot de Discord chamada Yumi! Sempre busca
 
 <div align="center">
   <sub>Feito Com Muito Amor e ☕ Por Luiz Alves.</sub>
+  <br>
+  <sub>Última Atualização: 10 de Abril de 2026, as 23:21</sub>
 </div>
