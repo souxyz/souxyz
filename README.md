@@ -2,7 +2,7 @@
 
   <h1>Luiz Alves</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5865F2&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full-Stack;Desenvolvendo+Solu%C3%A7%C3%B5es+Inteligentes;Focado+em+Resultados;Criando+o+Futuro+com+Codigo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5865F2&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full-Stack;Desenvolvendo+Solu%C3%A7%C3%B5es+Inteligentes;Focado+em+Resultados+Otimos;Criando+o+Futuro+com+Codigo" />
 
 <br><br>
 
@@ -128,7 +128,7 @@ VSCode, Termux, Acode
 
 ## Informações Profissionais
 
-- **Idiomas:** Português (Brasil) e Inglês em estudo.
+- **Idiomas:** Sei Português (Brasil) e Inglês, E Russo(Aprendendo).
 - **Foco Atual:** Arquitetura de software, Segurança e Performance.
 - **Áreas de Interesse:** Desenvolvimento de bots, automação, sistemas escaláveis e backend.
 - **Metodologia:** Código limpo, versionamento eficiente e entrega de valor real.
@@ -197,5 +197,5 @@ VSCode, Termux, Acode
 <div align="center">
   <sub>Feito Com Muito Amor e ☕ Por Luiz Alves.</sub>
   <br>
-  <sub>Última Atualização: 10 de Abril de 2026, as 23:49</sub>
+  <sub>Última Atualização: 10 de Abril de 2026, as 23:54</sub>
 </div>
