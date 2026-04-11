@@ -2,7 +2,7 @@
 
   <h1>Luiz Alves</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=5865F2&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full-Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5865F2&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full-Stack;Desenvolvendo+Solu%C3%A7%C3%B5es+Inteligentes;Focado+em+Resultados;Criando+o+Futuro+com+Codigo" />
 
 <br><br>
 
@@ -15,12 +15,22 @@
   </a>
   &nbsp;
   <a href="#skills">
-    <img src="https://img.shields.io/badge/Skills-111827?style=for-the-badge&logo=github&logoColor=8A2BE2" />
+    <img src="https://img.shields.io/badge/Tecnologias-111827?style=for-the-badge&logo=github&logoColor=8A2BE2" />
+  </a>
+  &nbsp;
+  <a href="#objetivos">
+    <img src="https://img.shields.io/badge/Objetivos-111827?style=for-the-badge&logo=target&logoColor=8A2BE2" />
   </a>
   &nbsp;
   <a href="#contato">
     <img src="https://img.shields.io/badge/Contato-111827?style=for-the-badge&logo=github&logoColor=8A2BE2" />
   </a>
+
+<br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=souxyz&color=5865F2&style=for-the-badge&label=Visitas" />
+  <img src="https://img.shields.io/github/followers/souxyz?color=5865F2&style=for-the-badge&label=Seguidores" />
+  <img src="https://img.shields.io/github/stars/souxyz?color=5865F2&style=for-the-badge&label=Estrelas" />
 
 </div>
 
@@ -28,14 +38,12 @@
 
 <div id="sobre" align="center">
 
-## 🧠 Sobre mim
+## Sobre mim
 
 <p style="max-width: 700px">
-Sou o Luiz, desenvolvedor focado em construir projetos sólidos e bem estruturados.  
-Gosto de transformar ideias em aplicações funcionais, com atenção tanto na lógica quanto na experiência.  
+Sou o Luiz, um desenvolvedor apaixonado por tecnologia, lógica e desafios. Tenho como princípio construir projetos sólidos, estruturados e que realmente funcionam. Transformo ideias em código, sempre buscando performance, segurança e boas práticas.
 
-Atualmente trabalhando na criação da bot de Discord chamada Yumi! Sempre buscando evoluir e aprender algo novo no processo.
-
+Atualmente estou focado no desenvolvimento da bot de moderação <strong>Yumi</strong> e em constante aprendizado, evoluindo minhas habilidades a cada novo projeto.
 </p>
 
 <br>
@@ -46,9 +54,9 @@ Atualmente trabalhando na criação da bot de Discord chamada Yumi! Sempre busca
 
 <br><br>
 
-### 🏆 Troféus
+### Conquistas e Reconhecimento
 
-<img src="https://github-profile-trophy.vercel.app/?username=souxyz&theme=tokyonight&no-frame=true&row=1&&margin-w=20&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=souxyz&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&no-bg=true" />
 
 </div>
 
@@ -56,7 +64,7 @@ Atualmente trabalhando na criação da bot de Discord chamada Yumi! Sempre busca
 
 <div id="projetos">
 
-## 🚀 Projetos 
+## Projetos em Destaque
 
 <div align="center">
 
@@ -76,11 +84,11 @@ Atualmente trabalhando na criação da bot de Discord chamada Yumi! Sempre busca
 
 <div id="skills">
 
-## 🛠️ Tecnologias Que Uso
+## Tecnologias e Ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,rust,c,github,html,css,php,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,rust,c,github,html,css,php,react,nextjs,mysql,nodejs,git,docker" />
 
 </div>
 
@@ -90,7 +98,7 @@ Atualmente trabalhando na criação da bot de Discord chamada Yumi! Sempre busca
 
 <div id="apps">
 
-## 💻 Aplicativos Que Uso
+## Ambiente de Desenvolvimento
 
 VSCode, Termux, Acode
 
@@ -100,7 +108,7 @@ VSCode, Termux, Acode
 
 <div id="atividade">
 
-## 📈 Minha Atividade
+## Atividade e Desempenho
 
 <div align="center">
 
@@ -116,13 +124,51 @@ VSCode, Termux, Acode
 
 ---
 
+<div id="info">
+
+## Informações Profissionais
+
+- **Idiomas:** Português (Brasil) e Inglês em estudo.
+- **Foco Atual:** Arquitetura de software, Segurança e Performance.
+- **Áreas de Interesse:** Desenvolvimento de bots, automação, sistemas escaláveis e backend.
+- **Metodologia:** Código limpo, versionamento eficiente e entrega de valor real.
+
+</div>
+
+---
+
+<div id="curiosidades">
+
+## Curiosidades
+
+- Comecei programando para automatizar tarefas simples e hoje crio sistemas complexos.
+- Tenho uma base sólida em diversas linguagens, o que me permite adaptar rápido.
+- Acredito que a tecnologia é a melhor forma de mudar o mundo ao nosso redor.
+- Sempre em busca de aprender algo novo e aplicar no dia a dia.
+
+</div>
+
+---
+
+<div id="filosofia">
+
+## Princípio
+
+> "Desenvolver software é mais do que escrever código, é sobre resolver problemas com inteligência, clareza e eficiência."
+
+</div>
+
+---
+
 <div id="objetivos">
 
-## 🎯 Objetivos 
+## Objetivos e Metas
 
-- 🤖 Finalizar e lançar a Yumi com todas as funcionalidades planejadas.
-- ☁️ Ser Reconhecido Pelo Meu Trabalho.
-- 🚀 Sempre evoluindo e criando soluções incríveis.
+- Finalizar e lançar a Yumi com todas as funcionalidades planejadas.
+- Ser reconhecido pela qualidade e dedicação no meu trabalho.
+- Dominar arquitetura de software e tecnologias de ponta.
+- Criar soluções que realmente impactem e ajudem pessoas.
+- Evoluir constantemente, sem nunca parar de aprender.
 
 </div>
 
@@ -130,7 +176,7 @@ VSCode, Termux, Acode
 
 <div id="contato">
 
-## 📬 Contato
+## Contato
 
 <div align="center">
 
@@ -151,5 +197,5 @@ VSCode, Termux, Acode
 <div align="center">
   <sub>Feito Com Muito Amor e ☕ Por Luiz Alves.</sub>
   <br>
-  <sub>Última Atualização: 10 de Abril de 2026, as 23:35</sub>
+  <sub>Última Atualização: 10 de Abril de 2026, as 23:49</sub>
 </div>
