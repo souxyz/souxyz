@@ -197,5 +197,9 @@ VSCode, Termux, Acode
 <div align="center">
   <sub>Feito Com Muito Amor e ☕ Por Luiz Alves.</sub>
   <br>
-  <sub>Última Atualização: 10 de Abril de 2026, as 23:54</sub>
+  <sub>Última Atualização: 11 de Abril de 2026, as 17:43</sub>
 </div>
+
+---
+
+![GIF](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
