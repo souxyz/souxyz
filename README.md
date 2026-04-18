@@ -99,7 +99,7 @@ Atualmente, mantemos um compromisso contínuo com a evolução tecnológica, inv
 Utilizamos as mais modernas ferramentas do mercado, garantindo eficiência e qualidade em todo o ciclo de vida do software.
 
 - **Editores e IDEs:** Visual Studio Code, Acode.
-- **Ambientes:** Termux(Para Ligar o Projeto Para Testes).
+- **Ambientes:** Termux (Para Ligar o Projeto Para Testes).
 
 </div>
 
@@ -181,5 +181,5 @@ Utilizamos as mais modernas ferramentas do mercado, garantindo eficiência e qua
 <div align="center">
   <sub>© 2026 Black Solutions. Todos os direitos reservados.</sub>
   <br>
-  <sub>Última atualização: 11 de Abril de 2026.</sub>
+  <sub>Última atualização: 18 de Abril de 2026.</sub>
 </div>
